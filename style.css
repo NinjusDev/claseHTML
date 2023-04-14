@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    background-color: rgb(250, 244, 244);
+}
+
+ul{
+list-style: none;}
+
+h1, h2, h3, p, ul{
+    text-align: center;}
+    
+p{
+    font-style: Roboto;
+}
+
+h1, h2{
+    text-decoration: underline;
+}
+
+hr{
+    width: 60%;
+}
