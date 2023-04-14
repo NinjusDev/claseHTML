@@ -5,20 +5,13 @@ html{
     background-color: rgb(250, 244, 244);
 }
 
-ul{
-list-style: none;}
-
-h1, h2, h3, p, ul{
+h1, h2, h3, p{
     text-align: center;}
     
 p{
     font-style: Roboto;
 }
 
-h1, h2{
+h1, h3{
     text-decoration: underline;
-}
-
-hr{
-    width: 60%;
 }
