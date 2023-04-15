@@ -12,14 +12,7 @@ p{
 body{
     font-family: sans-serif;
     margin: 0;
-}
-
-h1, h2, h3, p{
-    text-align: center;}
-    
-
-h1{
-    text-decoration: underline;
+    text-align: center;
 }
 
 a{
@@ -76,22 +69,33 @@ nav a{
     background-position: center center;
 }
 
-#hero h1{
-    color: whitesmoke;
-    text-decoration: none;
-}
-
-#hero span{
-    color: crimson  ;
-}
-
 #entrevista{
         background: rgb(34, 34, 34);
+        height: 90vh;
         color: aliceblue;
+
 }
 
 #entrevista h1{
     margin: 0px;
+    padding-top: 30px;
+    font-size: 60px;
+}
+
+ #entrevista hr{
+    margin: 0px;
+ }
+
+footer{
+    display: flex;
+    height: 40px;
+    align-items: center;
+}
+
+    
+.logo-git img{
+    max-height: 30px;
+    align-items: center;
 }
 
 @media (max-width:600px){
