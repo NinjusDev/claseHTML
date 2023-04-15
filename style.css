@@ -58,6 +58,42 @@ nav a{
     font-size: 18px;
 }
 
+#hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    height: 90vh;
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    )
+    ,url("media/hero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+#hero h1{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+#hero span{
+    color: crimson  ;
+}
+
+#entrevista{
+        background: rgb(34, 34, 34);
+        color: aliceblue;
+}
+
+#entrevista h1{
+    margin: 0px;
+}
+
 @media (max-width:600px){
     header{
         flex-direction: column;

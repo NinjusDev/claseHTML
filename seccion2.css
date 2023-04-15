@@ -59,3 +59,7 @@ nav a{
         padding: 10px 0px;
     }
 }
+
+#hero{
+    background: linear-gradient(0,0,0,0.5);
+}
