@@ -1,9 +1,6 @@
 *{
     box-sizing: border-box;
 }
-html{
-    background-color: rgb(250, 244, 244);
-}
 
 p{
     font-style: Roboto;
@@ -12,14 +9,6 @@ p{
 body{
     font-family: sans-serif;
     margin: 0;
-}
-
-h1, h2, h3, p{
-    text-align: center;}
-    
-
-h1{
-    text-decoration: underline;
 }
 
 a{
@@ -65,4 +54,4 @@ nav a{
     nav{
         padding: 10px 0px;
     }
-} 
+}
