@@ -38,7 +38,7 @@ header{
     display: flex;
     align-items: center;
 }
-.logo img{  
+.logo img{
     max-height: 25px;
     padding-right: 10px;
 }
@@ -82,9 +82,9 @@ nav a{
     font-size: 60px;
 }
 
- #entrevista hr{
+#entrevista hr{
     margin: 0px;
- }
+}
 
 footer{
     display: flex;
@@ -92,7 +92,6 @@ footer{
     align-items: center;
 }
 
-    
 .logo-git img{
     max-height: 30px;
     align-items: center;
