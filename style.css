@@ -29,7 +29,7 @@ a:hover{
 header{
     display: flex;
     height: 80px;
-    background-color: #009ECB;
+    background-color: #76c893;
     justify-content: space-between;
     align-items: center;
 }
@@ -72,18 +72,22 @@ nav a{
 #entrevista{
         background: rgb(34, 34, 34);
         height: 90vh;
-        color: aliceblue;
+        color: rgb(201, 201, 201);
 
 }
 
 #entrevista h1{
     margin: 0px;
     padding-top: 30px;
-    font-size: 60px;
+    font-size: 45px;
 }
 
 #entrevista hr{
     margin: 0px;
+}
+
+#entrevista span{
+    color: rgb(235, 10, 55);
 }
 
 footer{
